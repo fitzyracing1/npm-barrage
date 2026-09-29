@@ -1,2 +1,5 @@
 # npm-barrage
-Barrage plain-language clone of fitzyracing1/npm
+
+Barrage clone of [fitzyracing1/npm](https://github.com/fitzyracing1/npm).
+
+Read [listing.barrage](listing.barrage).
